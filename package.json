@@ -1,0 +1,20 @@
+{
+  "name": "ac-apps-minimal-enhance-config",
+  "version": "0.0.3",
+  "description": "enhance/config.js: A module bundled by ac-bundle-module.",
+  "main": "enhance/config.js",
+  "scripts": {
+    "start": "node enhance/config.js"
+  },
+  "keywords": [
+    "enhance/config.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-apps-minimal/modules/ac-apps-minimal-enhance-config/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
